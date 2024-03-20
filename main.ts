@@ -1,4 +1,4 @@
-let students = ["student 1", "student 2"];
+
 
 interface AddresType{
     streetName: string,
